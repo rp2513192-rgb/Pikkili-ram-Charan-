@@ -1,0 +1,6 @@
+{
+  "name": "Desi Highway - Grand Indian Road Rush",
+  "description": "An authentic 3D Indian highway driving game featuring realistic traffic scenarios: iconic trucks, auto-rickshaws, bikes, wrong-side drivers, stray cows, and highway toll booths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
